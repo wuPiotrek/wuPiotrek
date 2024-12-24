@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Piotr!
 
-<!--
-**wuPiotrek/wuPiotrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a **Java Backend Developer** and aspiring **DevOps Engineer**. I love creating robust, scalable, and maintainable systems. 🚀
 
-Here are some ideas to get you started:
+## 💻 Technologies I Use:
+- **Programming Languages**: Java, Bash
+- **Backend Frameworks**: Spring Boot, Hibernate
+- **DevOps Tools**: Docker, Jenkins
+- **Databases**: MySQL
+- **Cloud**: AWS, Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning:
+- Web Technologies
+
+## 🔧 Projects
+Here are some of the projects I've been working on:
+- [**Library Console Application**](https://github.com/wuPiotrek/library): A simple console-based library management application using Java.
+
+### 📈 GitHub Stats:
+![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuPiotrek&show_icons=true&theme=radical)
+
+### 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Portfolio](https://your-portfolio.com)
+
+## 🎯 My Goals:
+- Learn more about cloud-native application development.
+- Improve my knowledge of container orchestration with Kubernetes.
+
+---
