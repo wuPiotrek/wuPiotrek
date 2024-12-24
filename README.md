@@ -16,12 +16,8 @@ Welcome to my GitHub profile! I’m a **Java Backend Developer** and aspiring **
 Here are some of the projects I've been working on:
 - [**Library Console Application**](https://github.com/wuPiotrek/library): A simple console-based library management application using Java.
 
-### 📈 GitHub Stats:
-![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuPiotrek&show_icons=true&theme=radical)
-
 ### 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/piotrwojtowicz93)
 
 ## 🎯 My Goals:
 - Learn more about cloud-native application development.
