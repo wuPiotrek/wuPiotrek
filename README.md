@@ -13,11 +13,13 @@ Welcome to my GitHub profile! I’m a **Java Backend Developer** and aspiring **
 - **Cloud**: Azure
 
 ### 🌱 Currently Learning:
-- Web Technologies
+- Spring
 
 ## 🔧 Projects
 Here are some of the projects I've been working on:
-- [**Library Console Application**](https://github.com/wuPiotrek/library): A simple console-based library management application using Java.
+- **Library Console Application**: 
+  A simple console-based library management application using Java.
+  [GitHub Repository](https://github.com/wuPiotrek/library)
 
 - **MP3 Player Application:**  
   A desktop application for playing MP3 files, developed to explore JavaFX, FXML, CSS, Maven, and Java modules.  
@@ -27,7 +29,7 @@ Here are some of the projects I've been working on:
 - [LinkedIn](https://www.linkedin.com/in/wupiotrek)
 
 ## 🎯 My Goals:
-- Learn more about cloud-native application development.
+- Learn more about cloud-native application using microservices development.
 - Improve my knowledge of container orchestration with Kubernetes.
 
 ---
