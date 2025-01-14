@@ -3,10 +3,13 @@
 Welcome to my GitHub profile! I’m a **Java Backend Developer** and aspiring **DevOps Engineer**. I love creating robust, scalable, and maintainable systems. 🚀
 
 ## 💻 Technologies I Use:
-- **Programming Languages**: Java, Bash
-- **Backend Frameworks**: Spring Boot, Hibernate
+- **Programming Languages**: Java, Bash, Python
+- **Backend Frameworks**: Spring Boot, Spring Web, Spring MVC, Spring Data JPA, Spring Boot Dev Tools
+- **Dev Tools**: InteliJ IDEA, GIT, Visual Studio Code
+- **Backend Tools**: Maven, Liquibase, REST API, Swagger UI, Postman
+- **Frontend**: HTML, CSS, JavaScript, Thymeleaf
 - **DevOps Tools**: Docker, Jenkins, Ansible
-- **Databases**: MySQL
+- **Databases**: MySQL, PostgreSQL, H2
 - **Cloud**: Azure
 
 ### 🌱 Currently Learning:
@@ -21,7 +24,7 @@ Here are some of the projects I've been working on:
   [GitHub Repository](https://github.com/wuPiotrek/mp3player)
 
 ### 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/piotrwojtowicz93)
+- [LinkedIn](https://www.linkedin.com/in/wupiotrek)
 
 ## 🎯 My Goals:
 - Learn more about cloud-native application development.
