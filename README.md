@@ -21,7 +21,7 @@ Here are some of the projects I've been working on:
   A simple console-based library management application using Java.
   [GitHub Repository](https://github.com/wuPiotrek/library)
 
-- **MP3 Player Application:**  
+- **MP3 Player Application**:  
   A desktop application for playing MP3 files, developed to explore JavaFX, FXML, CSS, Maven, and Java modules.  
   [GitHub Repository](https://github.com/wuPiotrek/mp3player)
 
