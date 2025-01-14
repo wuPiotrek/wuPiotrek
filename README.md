@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I’m a **Java Backend Developer** and aspiring **
 ## 💻 Technologies I Use:
 - **Programming Languages**: Java, Bash, Python
 - **Backend Frameworks**: Spring Boot, Spring Web, Spring MVC, Spring Data JPA, Spring Boot Dev Tools
-- **Dev Tools**: InteliJ IDEA, GIT, Visual Studio Code
 - **Backend Tools**: Maven, Liquibase, REST API, Swagger UI, Postman
+- **Dev Tools**: InteliJ IDEA, GIT, Visual Studio Code
 - **Frontend**: HTML, CSS, JavaScript, Thymeleaf
 - **DevOps Tools**: Docker, Jenkins, Ansible
 - **Databases**: MySQL, PostgreSQL, H2
@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I’m a **Java Backend Developer** and aspiring **
 
 ## 🔧 Projects
 Here are some of the projects I've been working on:
-- **Library Console Application**: 
-  A simple console-based library management application using Java.
+- **Library Console Application**:  
+  A simple console-based library management application using Java.  
   [GitHub Repository](https://github.com/wuPiotrek/library)
 
 - **MP3 Player Application**:  
